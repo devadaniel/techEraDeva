@@ -1,0 +1,35 @@
+.course-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.course-details-items {
+  background-color: #ffffff;
+  background-size: cover;
+  padding: 10px;
+  display: flex;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.course-image {
+  height: 400px;
+  width: 380px;
+}
+
+.course-name {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #1e293b;
+  margin-left: 10px;
+}
+
+.course-description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #64748b;
+  margin-left: 10px;
+  width: 500px;
+}

@@ -1,0 +1,11 @@
+.header-container {
+  background-color: #e8e8e8;
+  background-size: cover;
+  padding: 10px;
+}
+
+.logo {
+  height: 40px;
+  width: 130px;
+  padding-left: 30px;
+}
